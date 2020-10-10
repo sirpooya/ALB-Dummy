@@ -10,7 +10,7 @@
         <sparkle:minimumSystemVersion>67</sparkle:minimumSystemVersion>
         <sparkle:maximumSystemVersion>69</sparkle:maximumSystemVersion>
         <pubDate>Sun, 23 Aug 2020 14:00:00 +0000</pubDate>
-        <enclosure url="https://github.com/sirpooya/ALB-Dummy/blob/master/ALB.sketch" sparkle:version="37" length="55113445" type="application/octet-stream" />
+        <enclosure url="https://raw.githubusercontent.com/sirpooya/ALB-Dummy/blob/master/ALB.sketch" sparkle:version="37" length="55113445" type="application/octet-stream" />
       </item>
   </channel>
 </rss>
