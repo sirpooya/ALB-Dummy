@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Alibaba Design System</title>
+    <link>http://sketchlibrary.sketchapp.com/libraries/SketchLibraryAppcast.xml</link>
+    <description>Alibaba Design System Sketch library</description>
+    <language>en</language>
+      <item>
+        <title>Alibaba Design System</title>
+        <sparkle:minimumSystemVersion>67</sparkle:minimumSystemVersion>
+        <sparkle:maximumSystemVersion>69</sparkle:maximumSystemVersion>
+        <pubDate>Sun, 23 Aug 2020 14:00:00 +0000</pubDate>
+        <enclosure url="https://www.dropbox.com/s/v2azpd15gd1hpnt/Cards%20%26%20Modals%20%5BLibrary%5D%20%28Master%20%40%2075c975c%29.sketch" sparkle:version="37" length="55113445" type="application/octet-stream" />
+      </item>
+  </channel>
+</rss>
